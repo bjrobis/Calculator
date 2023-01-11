@@ -1,0 +1,8 @@
+git init: Initialize a git repo in your directory
+git status: check the status of a repo
+git add [file name] : add one file
+git add . : add all files
+git commit -m "message" : commit your files along with a message
+git remote add origin [url] : the remote url to your github repo
+git push origin main: push your files up to the github on the main branch
+

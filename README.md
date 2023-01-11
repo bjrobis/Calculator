@@ -1,0 +1,1 @@
+This is a very basic calculator that I created to help me learn CSS and basic javascript. 
